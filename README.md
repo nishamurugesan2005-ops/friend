@@ -20,7 +20,7 @@ A special friendship webpage created using HTML, CSS, and JavaScript.
 
 Open the website here:
 
-**https://nishamurugesan2005-ops.github.io/friend/**
+https://github.com/nishamurugesan2005-ops/friend.git
 
 ## 👩‍💻 Created By
 
